@@ -1,0 +1,85 @@
+.contenedor-radio-button div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contenedor-registro{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 20px;
+}
+
+.contenedor-registro div{
+    margin-bottom: 25px;
+}
+
+.contenedor-registro div input{
+    border: none;
+    border-radius: 5px;
+    
+}
+.titulos{
+    font-weight: bold;
+    font-size: 20px;
+    margin: 0px 0px 20px 0px;
+}
+
+
+.titulo-intereses{
+    text-align: left;
+    font-weight: bold;
+    margin-left: 0px;
+}
+.contenedor-checkbox-intereses{
+    display: flex;
+    flex-direction: column;
+}
+
+.form-registro{
+    margin: auto;
+    width: 60%;
+}
+
+.inputs-register input{
+    margin-top: 40px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    width: 100%;
+    font-size: 19px;
+}
+
+.reset{
+    background-color: red !important;
+}
+.button{
+    display: block;
+    margin: auto;
+    margin: 40px auto;
+    text-align: center;
+    width: 100%;
+    background-color: #1259c3;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 19px;
+}
+
+.inputs-register p input{
+    margin-top: 5px
+}
+
+.userProfile label, input {
+    flex-basis: 33%;
+}
+
+.contenedor-checkbox-intereses div{
+    margin: 0px;
+}
+
+.contenedor-checkbox-intereses div input{
+    margin: 20px;
+}

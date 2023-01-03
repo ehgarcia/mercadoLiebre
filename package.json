@@ -1,0 +1,22 @@
+{
+  "name": "mercado-liebre",
+  "version": "1.0.0",
+  "description": "Proyecto",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jedamara/Mercado-Liebre.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jedamara/Mercado-Liebre/issues"
+  },
+  "homepage": "https://github.com/Jedamara/Mercado-Liebre#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
